@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Aditya Reddy 👋
 
-<!--
-**Adityareddy4310/Adityareddy4310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech in Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+I enjoy building full-stack software using Django, Python and AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in
+
+- Full Stack Development
+- AI Applications
+- Computer Vision
+- Machine Learning
+- Enterprise Software
+
+---
+
+## Featured Projects
+
+### FinanceFlow
+Enterprise Finance Management SaaS
+
+✔ Django
+
+✔ Excel Import/Export
+
+✔ Cash Flow
+
+✔ Loan Management
+
+✔ Enterprise UI
+
+🔗 https://github.com/Adityareddy4310/FinanceFlow
+
+---
+
+### Skills
+
+Python
+
+Django
+
+JavaScript
+
+HTML
+
+CSS
+
+SQL
+
+Git
+
+GitHub
+
+OpenCV
+
+PyTorch
+
+Machine Learning
+
+Deep Learning
+
+---
+
+## Currently Learning
+
+Advanced Django
+
+System Design
+
+Generative AI
+
+Large Language Models
+
+---
+
+## Connect
+
+LinkedIn
+
+Email
