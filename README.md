@@ -1,80 +1,70 @@
-# Hi, I'm Aditya Reddy 👋
+# Hi 👋, I'm Aditya Reddy
 
-M.Tech in Artificial Intelligence & Machine Learning
+### AI Engineer | Full Stack Django Developer | M.Tech (AI & ML)
 
-I enjoy building full-stack software using Django, Python and AI technologies.
+I enjoy building modern software using **Python**, **Django**, **Artificial Intelligence**, and **Machine Learning**.
 
-Currently interested in
+Currently exploring AI-assisted software engineering, enterprise SaaS development, and real-world AI applications.
 
-- Full Stack Development
-- AI Applications
-- Computer Vision
+---
+
+## 🚀 Featured Project
+
+### 💰 FinanceFlow
+
+Enterprise Finance Management SaaS built using Django.
+
+Features include:
+
+- Multi Finance Groups
+- Daily Loan Collection
+- Borrower Ledger
+- Excel Import & Export
+- Cash Flow Management
+- Enterprise Dashboard
+- Responsive Design
+- English & Telugu Support
+
+🔗 Repository
+
+https://github.com/Adityareddy4310/FinanceFlow
+
+---
+
+## 💻 Skills
+
+- Python
+- Django
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Git
+- GitHub
 - Machine Learning
-- Enterprise Software
+- Deep Learning
+- OpenCV
+- PyTorch
 
 ---
 
-## Featured Projects
+## 📚 Currently Learning
 
-### FinanceFlow
-Enterprise Finance Management SaaS
-
-✔ Django
-
-✔ Excel Import/Export
-
-✔ Cash Flow
-
-✔ Loan Management
-
-✔ Enterprise UI
-
-🔗 https://github.com/Adityareddy4310/FinanceFlow
+- Advanced Django
+- System Design
+- Generative AI
+- Large Language Models
+- Cloud Deployment
 
 ---
 
-### Skills
+## 🌐 Connect With Me
 
-Python
+LinkedIn:
+(Add later)
 
-Django
+Portfolio:
+(Add later)
 
-JavaScript
-
-HTML
-
-CSS
-
-SQL
-
-Git
-
-GitHub
-
-OpenCV
-
-PyTorch
-
-Machine Learning
-
-Deep Learning
-
----
-
-## Currently Learning
-
-Advanced Django
-
-System Design
-
-Generative AI
-
-Large Language Models
-
----
-
-## Connect
-
-LinkedIn
-
-Email
+Email:
+adityareddykovuri4310@gmail.com
